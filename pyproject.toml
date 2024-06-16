@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "python-web-module-2"
+version = "0.1.0"
+description = ""
+authors = ["markiz9ka <markelloff777@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
